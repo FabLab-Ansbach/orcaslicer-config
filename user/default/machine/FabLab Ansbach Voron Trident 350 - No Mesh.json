@@ -7,6 +7,7 @@
 	],
 	"machine_start_gcode": "PRINT_START EXTRUDER={first_layer_temperature[initial_extruder]} BED={first_layer_bed_temperature[0]} PROFILE={filament_type[0]}\n",
 	"name": "FabLab Ansbach Voron Trident 350 - No Mesh",
+	"print_host": "10.200.1.22",
 	"printable_height": "320",
 	"printer_extruder_id": [
 		"1"
